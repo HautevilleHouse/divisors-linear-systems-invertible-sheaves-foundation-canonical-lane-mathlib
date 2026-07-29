@@ -1,0 +1,9 @@
+import divisors_linear_systems_invertible_sheaves_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace divisors_linear_systems_invertible_sheaves_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end divisors_linear_systems_invertible_sheaves_foundation_canonical_lane_mathlib
+end HautevilleHouse
